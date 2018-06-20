@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    height: 100vh;
+}
+
+main {
+    margin: 0;
+}
+
+#rooms {
+    height: 50vh;
+    background-color: red;
+    margin: 0;
+    padding: 0;
+}
+
+#users {
+    height: 50vh;
+    background-color: red;
+    margin: 0;
+    padding: 0;
+}
+
+.col-9 {
+    background-color: rgb(0, 162, 255);
+    margin: 0;
+    padding: 0;
+}
